@@ -1,0 +1,19 @@
+import datetime
+ahora = datetime.datetime.now()
+if ahora.hour<18:
+  print(ahora)
+  print(ahora.minute)
+  print(ahora.hour)
+  print("Acutalmente se presenta trafico en esta zona")
+else:
+  if ahora.hour<12:
+   print(ahora)
+   print(ahora.minute)
+   print(ahora.hour)
+   print("Se evidencia un ligero trafico en la zona")
+  else:
+    if ahora.hour<7:
+       print(ahora)
+       print(ahora.minute)
+       print(ahora.hour)
+       print("No se evidencia ningun incidente de trafico en esta zona")
