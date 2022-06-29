@@ -1,0 +1,500 @@
+Av.Sta.Cruz & C.Bartolomé Herrera
+C.Bartolomé Herrera & Jr.Arica
+Carrión & Jr.Arica
+Enrique Meiggs & Jr.Arica
+E de Habich & Jr.Arica
+C.Victor Larco Herrera & Jr.Arica
+Av.Angamos Oeste & Jr.Arica
+C.Chiclayo & Jr.Arica
+C.Piura & Jr & Arica
+Ca.Enrique Palacios & Jr.Arica
+C. 2 de Mayo & Jr.Arica
+Av.José Pardo & Jr.Arica & Bolognesi
+C.Berlín & Bolognesi
+C.José Galvez & Bolognesi
+C.Francia & Bolognesi
+C.Madrid & Bolognesi
+C.Italia & Bolognesi
+C.Tripoli & Bolognesi
+Venecia & Bolognesi
+Mal.Balta & Bolognesi
+Mal.Balta & Mal.Cisneros
+Venecia & Mal.Cisneros
+Mal.Cisneros & Jorge Chávez
+C.Tripoli & Jorge Chávez
+C.Italia & Jorge Chávez
+C.Madrid & Jorge Chávez
+C Francia & Jorge Chávez
+C.José Galvez & Jorge Chávez
+C.Berlín & Jorge Chávez
+Av.José Pardo & Jorge Chávez & Av.Comandante Espinar
+C. 2 de Mayo & Av.Comandante Espinar
+Ca.Enrique Palacios & Av.Comandante Espinar
+Marqués de Torre Tagle & Av.Comandante Espinar
+C Piura & Av.Comandante Espinar
+C.El Rosario & Av.Comandante Espinar
+C.Chiclayo & Av.Comandante Espinar
+Av.Angamos Oeste & Av.Comandante Espinar
+C.Julio Becerra & Av.Comandante Espinar
+E de Habich & Av.Comandante Espinar
+C.Lino Alarco & Av.Comandante Espinar
+Enrique Meiggs & Av.Comandante Espinar
+Av.Emilio Cavenecia & Av.Los Conquistadores & Av.Sta.Cruz & Av.Comandante Espinar
+Almte.Lord Nelson & Av.Emilio Cavenecia
+Almte.Lord Nelson & C.Alfredo Salazar
+C.Alfredo Salazar & Av.Sta.Cruz
+Av.Jorge Vanderghen & C.Lino Alarco & Av.Sta.Cruz
+C.Lino Alarco & Ca.Gral.Miguel Iglesias
+C.Julio Becerra & Ca.Gral.Miguel Iglesias
+Av.Angamos Oeste & Ca.Gral.Miguel Iglesias
+C.Chiclayo & Ca.Gral.Miguel Iglesias
+C.El Rosario & Ca.Gral.Miguel Iglesias
+C.Piura & Ca.Gral.Miguel Iglesias
+Ca.Enrique Palacios & Marqués de Torre Tagle & Ca.Gral.Miguel Iglesias
+C. 2 de Mayo & Ca.Gral.Miguel Iglesias
+Av.José Pardo & Ca.Gral.Miguel Iglesias & C.Roma
+C.Berlín & C.Roma
+Alfredo Leon & C.Roma
+C.José Galvez & C.Roma
+C.José Galvez & Alfredo Leon
+C.Francia & C.Roma
+C.Madrid & C.Roma
+Mal.Cisneros & C Roma
+Ramon Zavala & C.Madrid & Av.de la Aviación
+Ramon Zavala & Av.de la Aviación
+C.Francia & Ramon Zavala
+C.José Galvez & Ramon Zavala
+C.Berlín & Alfredo Leon & Ramon Zavala
+Av.José Pardo & Ramon Zavala & C.Gral.Varela
+C. 2 de Mayo & Marqués de Torre Tagle & C.Gral.Varela
+Ca.Enrique Palacios & C.Gral.Varela
+C.Piura & C.Gral.Varela
+C.El Rosario & C.Gral.Varela
+C.Chiclayo & C.Gral.Varela
+Av.Angamos Oeste & C.Gral.Varela
+Av.Angamos Oeste & Av.Sta.Cruz
+Av.Mariscal Sucre & C.Julio Becerra & Av.Sta.Cruz
+Av.Mariscal Sucre & Chamberi
+Av.Mariscal Sucre & Almte.Lord Nelson
+Av.Jorge Vanderghen & Almte.Lord Nelson
+Av.Jorge Vanderghen & José del Llano Zapata
+C.Alfredo Salazar & José del Llano Zapata
+C.Alfredo Salazar & Ca.Almirante Lord Cochrane
+C.Alfredo Salazar & Av.Tudela y Varela
+Av.Jorge Vanderghen & Av.Tudela y Varela
+Ca.Almirante Lord Cochrane & Av.Jorge Vanderghen
+Av.Mariscal Sucre & Ca.Almirante Lord Cochrane
+Av.Mariscal Sucre & Jorge del Llano Zapata
+Av.Angamos Oeste & Ca.Almirante Lord Cochrane
+Av.Angamos Oeste & C.Capitan José Quiñones
+Av.Angamos Oeste & C.Manuel Tovar
+Av.Angamos Oeste & Retiro & Chamberi
+Triana & Retiro
+Triana & Av.Sta.Cruz
+C.El Rosario & Av.Sta.Cruz
+C.El Rosario & C.Chiclayo
+C.El Rosario & C.Cesareo Chacaltana
+C.Piura & C.Cesareo Chacaltana
+Ca.Enrique Palacios & C.Cesareo Chacaltana
+C. 2 de Mayo & C.Cesareo Chacaltana
+Av.José Pardo & Av.Mariscal La Mar & C.Cesareo Chacaltana & Marqués de Torre Tagle & Alfredo Leon & C.Martin Napanga
+C.Berlín & C.Martin Napanga
+C.José Galvez & C.Martin Napanga
+Av.de la Aviación & C.Martin Napanga
+C.Francia & Av.de la Aviación
+C.Francia & Mal.Cisneros
+Gonzales Vigil & Mal.Cisneros
+Mal.Cisneros & C.Vicealmirante Carbajal
+C.José Galvez & C.Vicealmirante Carbajal
+C.José Galvez & Av.de la Aviación
+C.Vicealmirante Carbajal & Av.de la Aviación
+Av.de la Aviación & C.Comandante Juan G.Moore
+C.Comandante Juan G & Moore & C.Tupac Amaru
+C.Berlín & Av.de la Aviación & C.Tupac Amaru
+C.Berlín & C.Comandante Juan G.Moore
+C.Berlín & C.Vicealmirante Carbajal
+C.Comandante Juan G.Moore & Figuredo
+Av.José Pardo & Figuredo & C. 27 De Noviembre
+C. 2 de Mayo & Av.Mariscal La Mar & C. 27 De Noviembre
+Ca.Enrique Palacios & C. 27 De Noviembre
+C.Piura & C. 27 De Noviembre
+Av.Gral.Córdova & C.Piura & Av.Sta Cruz
+José de la Torre Ugarte & Av.Gral.Córdova
+C.Manuel Tovar & Av.Gral.Córdova
+C.Manuel Tovar & Triana
+Joaquin Capelo & Av.Gral.Córdova
+Av.Gral.Córdova & C.Capitan José Quiñones
+Toribio Pacheco & Av.Gral.Córdova
+8 De Octubre & Av.Gral.Córdova
+C.Ignacio Merino & Av.Gral.Córdova
+C.Ignacio Merino & Av.Tudela y Varela & Av.Angamos Oeste
+Av.Angamos Oeste & Cíbeles
+Av.Angamos Oeste & C.Mariscal Blas Cerdeña
+Av.Angamos Oeste & C.Contralmirante Mora
+Av.Angamos Oeste & Av.Gral.Córdova
+Av.Gral.Córdova & Federico Villareal
+Av.Gral.Córdova & Jose Toribio Polo
+Av.Mariscal La Mar & Jose Toribio Polo
+Av.Mariscal La Mar & 8 De Octubre
+C.Ignacio Merino & 8 De Octubre
+Av.Mariscal La Mar & C.Ignacio Merino
+Av.Mariscal La Mar & Toribio Pacheco
+Av.Mariscal La Mar & Joaquin Capelo
+Av.Mariscal La Mar & C.Manuel Tovar
+Av.Mariscal La Mar & Jose de la Torre Ugarte
+Av.Mariscal La Mar & Ca.José Bernardo Alcedo
+Av.Mariscal La Mar & Av.Sta.Cruz
+Av.Sta.Cruz & Ca.Enrique Palacios
+Av.Sta.Cruz & C. 2 de Mayo
+Av.Sta.Cruz & Av.Gral.Mendiburu
+C. 2 de Mayo & C.Ureta
+Av.José Pardo & C.Ureta & C.Tupac Amaru
+Av.José Pardo & Av.del Ejército & Av.Sta.Cruz & Av.de la Aviación & 7 De Junio
+Av.de la Aviación & C.Manuel Segura
+C.Berlín & C.Manuel Segura
+C.José Galvez & C.Manuel Segura & C.Comandante Juan G.Moore
+C.Tupac Amaru & C.José Galvez
+C.Tupac Amaru & Mal.Cisneros
+Mal.Cisneros & C.Comandante Juan G.Moore
+Mal.Cisneros & C.José Galvez
+Mal.Cisneros & 7 de Junio
+C.Berlín & 7 de Junio
+Mal.Cisneros & 7 de Junio
+Mal.Cisneros & C.Berlín
+Av.José Pardo & Mal.Cisneros & Mal.de la Marina
+Mal.de la Marina & Ca.José Bernardo Alcedo
+Ca.José Bernardo Alcedo & Av.del Ejército
+Av.Gral.Mendiburu & Ca.José Bernardo Alcedo
+Av.Gral.Mendiburu & José de la Torre Ugarte
+Av.Gral.Mendiburu & C.Manuel Tovar
+Av.Gral.Mendiburu & Joaquin Capelo
+Av.Gral.Mendiburu & Toribio Pacheco
+Av.Gral.Mendiburu & Toribio Pacheco
+8 De Octubre & Av.Gral.Mendiburu & Jose Toribio Polo
+Av.Gral.Mendiburu & Federico Villareal
+Av.Mariscal La Mar & Federico Villareal
+Av.Mariscal La Mar & Mateo Pumacahua
+Av.Gral.Córdova & Mateo Pumacahua
+Av.Gral.Córdova & C.Mariano Melgar & C.Sta.Teresita
+Av.Mariscal La Mar & Av.Hipolito Unanue & C.Mariano Melgar
+Av.Hipolito Unanue & Av.Gral.Córdova
+José Domingo Choquehuanca & Av.Gral.Córdova
+C.Paul Harris & C.Jorge Polar & Av.Gral.Córdova
+Av.Mariscal La Mar & C.Jorge Polar
+Av.Mariscal La Mar & José Domingo Choquehuanca
+C.Jorge Polar & Av.Gral.Mendiburu
+Av.Gral.Mendiburu & José Domingo Choquehuanca
+C.Jorge Polar & Av.del Ejército
+Av.del Ejército & José Domingo Choquehuanca
+Av.del Ejército & C.Mariano Melgar
+Av.Gral.Mendiburu & C.Mariano Melgar
+Av.Gral.Mendiburu & Av.Hipolito Unanue & Mateo Pumacahua
+Av.del Ejército & Mateo Pumacahua
+Av.del Ejército & Av.Hipolito Unanue & Federico Villareal & 8 De Octubre
+Av.del Ejército & Jose Toribio Polo
+Av.del Ejército & C.Ignacio Merino
+Av.del Ejército & Toribio Pacheco
+Av.del Ejército & Joaquin Capelo
+Av.del Ejército & C.Manuel Tovar
+Av.del Ejército & José de la Torre Ugarte
+C.Contralmirante Villar & José de la Torre Ugarte
+C.Contralmirante Villar & Mal.de la Marina
+Mal.de la Marina & José de la Torre Ugarte
+C.Contralmirante Villar & Mal.de la Marina
+Jr.Manuel Tovar & C.Manuel Tovar
+C.Manuel Tovar & Mal.de la Marina
+Mal.de la Marina & C.Contralmirante Villar & Jr.Manuel Tovar
+Mal.de la Marina & Joaquin Capelo
+Joaquin Capelo & C.Contralmirante Villar
+C.Contralmirante Villar & Toribio Pacheco
+Mal.de la Marina & Toribio Pacheco
+Mal.de la Marina & C.Ignacio Merino
+C.Contralmirante Villar & C.Ignacio Merino
+Mal.de la Marina & Jose Toribio Polo
+C.Contralmirante Villar & Jose Toribio Polo
+Mal.de la Marina & C.Contralmirante Villar
+Mal.de la Marina & Federico Villareal
+Mal.de la Marina & José Domingo Choquehuanca
+Mal.de la Marina & Av.del Ejército
+C.Paul Harris & C.Ocharan
+C.Paul Harris & Ca.Teniente Jose Romanet
+C.Paul Harris & C.Alberto Chabrier
+C.Paul Harris & Av.Coronel Pedro Portillo
+Av.Augusto Pérez Araníbar & Av.Coronel Pedro Portillo & Av.del Ejército
+Av.Augusto Pérez Araníbar & Av.Octavio Espinosa
+Av.Augusto Pérez Araníbar & C.F.Valle Riestra
+Av.Augusto Pérez Araníbar & C.Godofredo Garcia
+Av.Augusto Pérez Araníbar & C.Huara & C.Juan Dellepiani
+Av.Augusto Pérez Araníbar & C.Juan Dellepiani
+Av.Augusto Pérez Araníbar & C.Carlos Concha
+Av.Augusto Pérez Araníbar & C.Baltazar La Torre
+Av.Augusto Pérez Araníbar & Av.del Ejército & Av.Gral.Salaverry
+Av.Gral.Salaverry & C.Gral.La Fuente
+Av.Gral.Salaverry & Av.Gral.Juan Antonio Pezet
+Av.Gral.Salaverry & C.Augusto Bolognesi
+Av.Gral.Salaverry & C.José Dionisio Anchorena
+Av.Gral.Salaverry & Av.Alberto del Campo
+Av.Alberto del Campo & C.Baltazar La Torre
+Av.Alberto del Campo & C.Juan Dellepiani
+C.Jose Dionisio Anchorena & C.Baltazar La Torre
+C.Jose Dionisio Anchorena & C.Juan Dellepiani
+C.Augusto Bolognesi & C.Baltazar La Torre
+C.Augusto Bolognesi & C.Juan Dellepiani
+Av.Gral.Juan Antonio Pezet & C.Baltazar La Torre
+Av.Gral.Juan Antonio Pezet & C.Juan Dellepiani
+Av.Gral.La Fuente & C.Baltazar La Torre
+Av.Gral.La Fuente & C.Juan Dellepiani
+C.Manuel Salazar & C.Baltazar La Torre
+C.Manuel Salazar & C & Carlos Concha
+C.Manuel Salazar & C.Juan Dellepiani
+C.Juan Dellepiani & C.Yapeyu
+C.Yapeyu & C.Huara & C.Godofredo Garcia
+C.Manuel Salazar & C.Godofredo Garcia
+C.F.Valle Riestra & C.Pedro Canga
+C.F.Valle Riestra & C.Paul Harris
+C.Manuel Salazar & C.F.Valle Riestra
+C.F.Valle Riestra & C.Paúl de Beaudiez
+C.F.Valle Riestra & C.Gral.La Fuente
+C.F.Valle Riestra & Av.Gral.Juan Antonio Pezet
+C.Augusto Bolognesi & C.Valle Riestra
+C.Valle Riestra & C.Jose Dionisio Anchorena
+C.Valle Riestra & Av.Alberto del Campo & Av.Aurelio Miró Quesada
+Av.Aurelio Miró Quesada & C.Santiago Antunez de Mayolo
+Av.Aurelio Miró Quesada & C.Los Manzanos
+C.Jose Dionisio Anchorena & C.Santiago Antunez de Mayolo
+C.Jose Dionisio Anchorena & C.Los Manzanos
+C.Augusto Bolognesi & C.Santiago Antunez de Mayolo
+C.Augusto Bolognesi & C.Los Manzanos
+Av.Gral.Juan Antonio Pezet & C.Los Manzanos
+Av.Gral.Juan Antonio Pezet & Av.Octavio Espinosa
+C.Octavio Espinosa & C.Paúl de Beaudiez
+C.Octavio Espinosa & C.Paul Harris
+C.Octavio Espinosa & C.Pedro Canga
+Av.Coronel Pedro Portillo & C.Paúl de Beaudiez
+Av.Coronel Pedro Portillo & C.Alfredo Roldan
+Av.Coronel Pedro Portillo & Av.Gral.Juan Antonio Pezet
+Av.Coronel Pedro Portillo & C.Augusto Bolognesi
+Av.Coronel Pedro Portillo & C.Jose Dionisio Anchorena
+Av.Coronel Pedro Portillo & Av.Aurelio Miró Quesada & C.Las Moreras
+Av.Aurelio Miró Quesada & Country
+Av.Aurelio Miró Quesada & C.Los Castaños
+Av.Aurelio Miró Quesada & Ca.Los Eucaliptos
+Av.Aurelio Miró Quesada & Del Campo
+Av.Aurelio Miró Quesada & Ca.Los Eucaliptos
+Av.Aurelio Miró Quesada & C.Las Flores
+Av.Aurelio Miró Quesada & C.Los Laureles
+Av.Aurelio Miró Quesada & C.Los Nogales
+Av.Aurelio Miró Quesada & Los Cedros
+Av.Aurelio Miró Quesada & Av.El Rosario
+Av.Aurelio Miró Quesada & Av.Santo Toribio
+Av.Aurelio Miró Quesada & Av.Camino Real
+Av.Camino Real & C.Ernesto Plasencia
+Av.Camino Real & C.Juan C.Cavero
+Av.Camino Real & C.Conde de la Monclova
+Av.Camino Real & Av.Gral.Juan Antonio Pezet
+Av.Gral.Juan Antonio Pezet & C.Santiago Basurco
+Av.Gral.Juan Antonio Pezet & C.Francisco Eguiguren
+Av.Gral.Juan Antonio Pezet & C.David Samanez
+Av.Gral.Juan Antonio Pezet & C.Gral.Clement
+Av.Gral.Juan Antonio Pezet & C.Gral.Muñiz
+Av.Gral.Juan Antonio Pezet & C.Manzanilla
+Av.Gral.Juan Antonio Pezet & Av.Miguel Cervantes
+Av.Miguel Cervantes & C.Manzanilla
+Av.Miguel Cervantes & C.Gral.Muñiz
+Av.Miguel Cervantes & C.Olaechea
+Av.Miguel Cervantes & C.Gral.Clement
+Av.Miguel Cervantes & C.David Samanez
+Av.Miguel Cervantes & C.Francisco Eguiguren
+Av.Miguel Cervantes & C.Santiago Basurco
+Av.Miguel Cervantes & Alberto Ulloa
+Av.Miguel Cervantes & Av.Camino Real
+Av.Camino Real & C.Esquilache
+Av.Camino Real & C.Manuel Roaud y Paz Soldán
+Av.Camino Real & Av.Pardo y Aliaga & Av.Alvarez Calderón
+Av.Alvarez Calderón & C.Miguel Dasso & C.Alberto Ulloa
+Av.Alvarez Calderón & C.Francisco Eguiguren
+Av.Alvarez Calderón & C.David Samanez
+Av.Alvarez Calderón & C.Mariscal Blas Cerdeña
+Av.Alvarez Calderón & C.Gral.Clement
+Av.Alvarez Calderón & C.Carlos Cerdeña
+Av.Alvarez Calderón & C.Olaechea
+Av.Alvarez Calderón & C.Gral.Muñiz
+Av.Alvarez Calderón & Av.Gral.Jacinto Lara
+Av.Alvarez Calderón & C.Manzanilla
+Av.Alvarez Calderón & Av.Gral.Juan Antonio Pezet
+Av.Gral.Juan Antonio Pezet & Av.Belén
+Av.Gral.Juan Antonio Pezet & Ca.Teniente Jose Romanet
+Av.Gral.Juan Antonio Pezet & C.Alberto Chabrier
+C.Alfredo Roldan & C.Alberto Chabrier
+C.Alberto Chabrier & C.Paúl de Beaudiez
+C.Paúl de Beaudiez & Ca.Teniente Jose Romanet
+Ca.Teniente Jose Romanet & C.Capitán Renán Elias
+C.Paúl de Beaudiez & C.Ocharan
+C.Ocharan & Jose Gomez
+Jose Gomez & Ca.Teniente Jose Romanet
+Av.Belén & Prol.Alfredo Salazar
+Av.Belén & C.Alfredo Salazar
+Av.Belén & C.Victor Maúrtua
+C.Victor Maúrtua & C.Sta.Teresita
+C.Sta.Teresita & Sta.Margarita
+C.Sta.Teresita & C.Alfredo Salazar
+C.Alfredo Salazar & Prol.Alfredo Salazar
+C.Alfredo Salazar & Av.Gral.Jacinto Lara
+Av.Gral.Jacinto Lara & Sta.Margarita
+Av.Gral.Jacinto Lara & C.Victor Maúrtua
+Av.Gral.Jacinto Lara & C.Contralmirante Mora
+C.Victor Maúrtua & C.Carlos Graña
+C.Carlos Graña & Sra.Margarita
+C.Carlos Graña & C.Alfredo Salazar
+C.Alfredo Salazar & C.Mariscal Blas Cerdeña
+C.Mariscal Blas Cerdeña & C.Leonidas Yerovi
+C.Mariscal Blas Cerdeña & Sta.Margarita
+C.Mariscal Blas Cerdeña & C.Victor Maúrtua
+C.Victor Maúrtua & Cíbeles
+C.Victor Maúrtua & Av.Mariscal Sucre
+C.Victor Maúrtua & Av.Jorge Vanderghen
+C.Victor Maúrtua & C.Alfredo Salazar
+C.Alfredo Salazar & C.Francisco Eguiguren
+C.Francisco Eguiguren & C.Leonidas Yerovi
+C.Leonidas Yerovi & C.Miguel Dasso
+C.Miguel Dasso & C.Victor Maúrtua
+C.Miguel Dasso & Av.Tudela y Varela & Av.Emilio Cavenecia
+Av.Emilio Cavenecia & Av.Camino Real
+Av.Camino Real & C.Bustamante y Ballivián
+C.Bustamante y Ballivián & Av.Pardo y Aliaga
+Av.Pardo y Aliaga & Ca.Almirante Lord Cochrane
+Ca.Almirante Lord Cochrane & Pje.Alberto Lynch
+Ca.Almirante Lord Cochrane & Av.Emilio Cavenecia
+Av.Emilio Cavenecia & José del Llano Zapata
+José del Llano Zapata & Pje.Alberto Lynch
+José del Llano Zapata & Av.Los Conquistadores
+Av.Los Conquistadores & Av.Pardo y Aliaga
+Av.Los Conquistadores & C.Alberto Arca Parro
+Av.Los Conquistadores & C.Manuel Roaud y Paz Soldán
+C.Manuel Roaud y Paz Soldán & C.Los Libertadores
+C.Los Libertadores & C.Esquilache
+C.Los Libertadores & C.Conde de la Monclova
+C.Los Libertadores & C.Juan C.Cavero
+C.Los Libertadores & C.Ernesto Plasencia
+C.Los Libertadores & Lizardo Alzamora Este
+C.Los Libertadores & Av.Camino Real & C.Choquehuanca
+Av.Camino Real & Ignacio Merino
+Av.Camino Real & Av.Victor Andrés Belaúnde
+Av.Victor Andrés Belaúnde & C.Los Pinos
+Av.Victor Andrés Belaúnde & C.Las Palmeras & Av.Santo Toribio
+Av.Victor Andrés Belaúnde & C.Salamanca
+Av.Victor Andrés Belaúnde & Av.El Rosario & Av.Jorge Basadre & C.Los Naranjos
+Av.Los Cipreses & Av.Jorge Basadre
+Av.Jorge Basadre & Los Álamos
+Av.Jorge Basadre & Ca.Los Robles
+Av.Jorge Basadre & Los Cedros
+Av.Jorge Basadre & C.Los Nogales
+Av.Jorge Basadre & C.Los Laureles
+Av.Jorge Basadre & C.Las Flores
+Av.Jorge Basadre & Ca.Los Eucaliptos
+Ca.Los Eucaliptos & C.Parque Javier Prado
+C.Parque Javier Prado & C.Carlos Porras Osores
+C.Carlos Porras Osores & Pje.Parque Javier Prado
+Pje.Parque Javier Prado & C.Los Castaños
+C.Los Castaños & C.Juan Norberto Eléspuru
+C.Juan Norberto Eléspuru & C.Las Moreras
+C.Juan Norberto Eléspuru & C.Los Manzanos
+C.Juan Norberto Eléspuru & C.Valle Riestra
+C.Juan Norberto Eléspuru & C.Baltazar La Torre
+C.Juan Norberto Eléspuru & Av.Gral.Salaverry
+Av.Gral.Salaverry & C.Gonzales La Rosa
+C.Gonzales La Rosa & C.Baltazar La Torre
+C.Gonzales La Rosa & C.Valle Riestra & C.Jose Granda
+C.Valle Riestra & C.Miguel de Echenique
+C.Miguel de Echenique & C.Los Manzanos
+C.Los Manzanos & C.Jose Granda
+C.Jose Granda & C.Las Moreras
+C.Jose Granda & Country & C.Los Castaños
+C.Jose Granda & C.Carlos Porras Osores
+C.Jose Granda & Ca.Los Eucaliptos
+Ca.Los Eucaliptos & Av.Nicolas de Rivera
+Ca.Los Eucaliptos & C.Choquehuanca
+C.Choquehuanca & C.Las Flores
+C.Las Flores & Av.Nicolas de Rivera
+Av.Nicolas de Rivera & C.Los Laureles
+C.Los Laureles & C.Choquehuanca
+C.Los Laureles & C.Lizardo Alzamora Oeste
+C.Lizardo Alzamora Oeste & C.Los Nogales
+C.Los Nogales & C.Choquehuanca
+C.Los Nogales & Av.Nicolas de Rivera
+Av.Nicolas de Rivera & Los Cedros
+C.Choquehuanca & Los Cedros
+C.Lizardo Alzamora Oeste & Los Cedros
+C.Lizardo Alzamora Oeste & Av.El Rosario
+C.Lizardo Alzamora Oeste & Av.Santo Toribio
+C.Lizardo Alzamora Oeste & Av.Camino Real
+C.Choquehuanca & C.Los Robles
+Av.Nicolas de Rivera & C.Los Robles
+Av.Nicolas de Rivera & Los Álamos
+Av.Nicolas de Rivera & Av.El Rosario & C.Los Cipreses
+Av.Los Álamos & Av.El Rosario
+Av.El Rosario & C.Choquehuanca
+C.Choquehuanca & C.Salamanca
+C.Salamanca & Av.Nicolas de Rivera
+Av.Nicolas de Rivera & Av.Santo Toribio
+C.Choquehuanca & Av.Santo Toribio
+Av.Camino Real & Sacsayhuaman
+Av.Camino Real & Av.Jorge Basadre
+Av.Jorge Basadre & C.Manuel Bañon
+Av.Jorge Basadre & C.Machaypuito
+Av.Jorge Basadre & Av.Javier Prado Oeste
+Av.Javier Padro Oeste & C.Los Olivos
+C.Los Olivos & C.Manuel Bañon
+C.Manuel Bañon & C.Los Fresnos
+Av.Javier Padro Oeste & C.Los Fresnos
+Av.Javier Padro Oeste & C.Los Pinos
+C.Los Pinos & C.Manuel Bañon
+C.Los Pinos & Av.Jorge Basadre
+Av.Jorge Basadre & C.Los Sauces
+C.Los Sauces & Av.Javier Prado Oeste
+Av.Javier Prado Oeste & C.Las Palmeras
+C.Las Palmeras & Av.Jorge Basadre
+Av.Jorge Basadre & C.Los Ficus
+C.Los Ficus & Av.Javier Padro Oeste
+Av.Javier Padro Oeste & C.Los Naranjos
+Av.Javier Padro Oeste & C.Los Cipreses
+Av.Javier Padro Oeste & Los Álamos
+Av.Javier Padro Oeste & Ca.Los Robles
+Av.Javier Padro Oeste & Los Cedros
+Los Cedros & Dammert
+Av.Javier Padro Oeste & C.Los Nogales
+C.Los Nogales & Dammert
+Av.Javier Padro Oeste & C.Los Laureles
+Av.Javier Padro Oeste & C.Las Flores
+Av.Javier Padro Oeste & Ca.Los Eucaliptos
+Av.Javier Padro Oeste & C & Carlos Porras Osores
+Av.Javier Padro Oeste & C.Los Castaños
+Av.Javier Padro Oeste & C.Las Moreras
+C.Las Moreras & Pje.Atenas
+Pje.Atenas & C.Los Manzanos
+Av.Javier Padro Oeste & C.Los Manzanos & C.Baltazar La Torre
+Av.Javier Padro Oeste & Av.Gral.Salaverry
+Av.Javier Padro Oeste & C.Manuel Ugarte y Moscoso
+Av.Javier Padro Oeste & Clemente X
+Av.Javier Padro Oeste & Flora Tristán
+Av.Javier Padro Oeste & De La Roca De Vergallo
+Av.Javier Padro Oeste & Elespuru
+Elespuru & Flora Tristán
+Elespuru & Clemente X
+Elespuru & C.Manuel Ugarte y Moscoso
+C.Manuel Ugarte y Moscoso & Manuel Gonzales la Rosa
+Manuel Gonzales la Rosa & Clemente X
+Clemente X & Juan Polar
+Juan Polar & Flora Tristán
+Juan Polar & De la Roca De Vergallo & Torres Matos
+De la Roca De Vergallo & Manuel Gonzales la Rosa
+Manuel Gonzales la Rosa & Flora Tristán
+Av.Alberto del Campo & Flora Tristán & C.Bernardo Monteagudo
+C.Manuel Ugarte y Moscoso & Av.Alberto del Campo
+C.Manuel Ugarte y Moscoso & C.José Dionisio Anchorena
+C.Manuel Ugarte y Moscoso & Pje.Jose De Acosta
+C.Manuel Ugarte y Moscoso & C.Augusto Bolognesi
+C.Manuel Ugarte y Moscoso & Av.Gral.Juan Antonio Pezet
+C.Manuel Ugarte y Moscoso & Av.del Ejército
+C.Samuel Velarde & Av.del Ejército
+C.Samuel Velarde & Av.Gral.Juan Antonio Pezet
