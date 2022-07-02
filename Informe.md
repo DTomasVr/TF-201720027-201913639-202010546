@@ -16,7 +16,7 @@
 En el siguiente informe se detallara la elaboracion de una representacion de un distrito de la ciudad de Lima, más especificamente el distrito de Miraflores y sus alrededores, como un grafo.
 Partiendo de esta base añadiremos valores a los pesas de las aristas, considerando su localización y el  posible tráfico de la zona considerando la hora.
 Para la elaboracion de este trabajo se tuvieron en cuenta varias herramientas practicadas en clase por ejemplo el caso de:
- ###### Djisktra
+ ##### Djisktra
   >Sirve para encontrar el Page 2 camino de coste mínimo desde un nodo origen a todos los demás nodos del grafo
  ##### Breadth First Search or BFS
   >Algoritmo de búsqueda para lo cual recorre los nodos de un grafo, comenzando en la raíz (eligiendo algún nodo como elemento raíz en el caso de un grafo), para          luego explorar todos los vecinos de este nodo
