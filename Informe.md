@@ -13,5 +13,24 @@
 2022-01
 
 ## Introducción
-En el siguiente informe se detallara la elaboracion de una representacion de una porcion de la ciudad de Lima, más especificamente el distrito de Miraflores y sus alrededores, como un grafo.
+En el siguiente informe se detallara la elaboracion de una representacion de un distrito de la ciudad de Lima, más especificamente el distrito de Miraflores y sus alrededores, como un grafo.
 Partiendo de esta base añadiremos valores a los pesas de las aristas, considerando su localización y el  posible tráfico de la zona considerando la hora.
+Para la elaboracion de este trabajo se tuvieron en cuenta varias herramientas practicadas en clase por ejemplo el caso de:
+ >Djisktra
+ >Breadth First Search or BFS
+ >Iterative Deepening Search(IDS)
+ 
+## Elaboración
+
+>Para poder realizar la representacion del distrito de miraflores y sus respectivas intersecciones, primero se tuvo que delimitar el area trabajada, luego la digitación de las calles que se encuentran en esta area, y por ultimo realizar la lista de Adyaciencia de las intersecciones, todo se trabajo en Archivos .Txt como se ha venido trabajando a lo largo del ciclo.
+>Luego de obtener todos estos datos manualemente se tuvo que hayar cada cordenada, es por eso que se utilizó la libreria geopy para luego transformarlas con una funcion posterior a coordenadas X,Y
+ 
+ ## Interfaz Grafica
+ 
+ Despues de recibir la asesoria del profesor para poder realizar esta interfaz, asi mismo la graficación de los nodos, se utilizó la carpeta brindada "tfbase"
+ 
+ ## Conclusiones
+  
+>La divison de trabajo y un trabajo organizado con tareas designadas para cada uno es muy importante para trabajos de este tipo que almacenan cantidades         significativas de datos
+>Despues de implementar el algoritmo de Perlin Noise se puede resumir que para lo buscado (Simular trafico en las calles)
+>Los algoritmos aprendidos, durante el ciclo (-djisktra,implementacion de bfs,implementacion de ids)
