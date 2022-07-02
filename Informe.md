@@ -19,8 +19,9 @@ Para la elaboracion de este trabajo se tuvieron en cuenta varias herramientas pr
  ###### Djisktra
   >Sirve para encontrar el Page 2 camino de coste mínimo desde un nodo origen a todos los demás nodos del grafo
  ##### Breadth First Search or BFS
-  >algoritmo de búsqueda para lo cual recorre los nodos de un grafo, comenzando en la raíz (eligiendo algún nodo como elemento raíz en el caso de un grafo), para          luego explorar todos los vecinos de este nodo
+  >Algoritmo de búsqueda para lo cual recorre los nodos de un grafo, comenzando en la raíz (eligiendo algún nodo como elemento raíz en el caso de un grafo), para          luego explorar todos los vecinos de este nodo
  ##### Iterative Deepening Search(IDS) 
+   >Es una estrategia iterativa de búsqueda de gráficos que aprovecha la integridad de la estrategia Breadth-First Search (BFS) pero usa mucha menos memoria en cada      iteración (similar a la búsqueda en profundidad)
  
 ## Elaboración
 
