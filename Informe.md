@@ -36,4 +36,4 @@ Para la elaboracion de este trabajo se tuvieron en cuenta varias herramientas pr
   
 >La divison de trabajo y un trabajo organizado con tareas designadas para cada uno es muy importante para trabajos de este tipo que almacenan cantidades         significativas de datos
 >Despues de implementar el algoritmo de Perlin Noise se puede resumir que para lo buscado (Simular trafico en las calles)
->Los algoritmos aprendidos, durante el ciclo (-djisktra,implementacion de bfs,implementacion de ids)
+>Los algoritmos aprendidos, durante el ciclo (djisktra,bfs,ids) nos permiten encontrar caminos de un un nodo en un grafo 
