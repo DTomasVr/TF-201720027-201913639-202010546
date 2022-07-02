@@ -1,0 +1,500 @@
+Av.Tomás Marsano	Alejandro Deutua
+Alejandro Deutua	Enrique Camino Brent
+Alejandr Deutua	Salvador Gutierrez
+Salvador Guiterrez	Victor Gonzales Olaechea
+Salvador Gutierrez	El Pacayar
+Salvador Gutierrez	Ca.Juan Jose Calle
+Ca.Juan Jose Calle	Enrique Camino Brent
+Ca.Juan Jose Calle	Av. Tomás Marsano
+Av.Tomás Marsano	El Pacayar
+Enrique Camino Brent	 El Pacayar
+Salvador Gutierrez	 Av.RocayBoloña
+Salvador Gutierrez	 Av.RocayBoloña
+Salvador Gutierrez	Las Moras
+Savador Gutierrez	 Las Viñas
+Las Fresas	 las viñas
+Las viñas	 Av.Tomas Marzano
+Av.Tomas Marsano	Las Moras
+Av.Tomas Marsano	 Av.Roca y Boloña
+Av.Tomas Marsano	 Av.Roca y Boloña
+Las Moras	 Las Fresas
+Salvador Gutierrez	los Gladiolos
+Los Capulies	los Gladiolos
+los Gladiolos	 Victor Maldonado Begazo
+Los Capulies	 Jose Cortina Urbina
+Jose Cortina Urbina	 Bendezu
+Jose Cortina Urbina	 Las Fresas
+Salvador Guiterrez	 Victor Maldonado Begazo
+Las Fresas	 Victor Maldonado Begazo
+Las Fresas	 los Gladiolos
+los Gladiolos	 Av. Tomas Marsano
+Av. Tomas Marsano	 Victor Maldonado Begazo
+Av. Manuel Villaran	 los Gladiolos
+Los Capulies	 Aparicio Gomez
+Los Capulies	 Javier Heraud
+Capitan Miguel Alegre Rodriguez	 Javier Heraud
+Gustavo Begazo Gonzales	 Javier Heraud
+Las Fresas	 Javier Heraud
+Las Fresas	 Aparicio Gomez S
+Las Fresas	 Av. Manuel Villaran
+Av. Manuel Villaran	 Av. Tomas Marsano
+Av.Tomas Marsano	 Javier Heraud
+Enrique Caballero Orrego	 Capitan Miguel Alegre Rodriguez
+Enrique Caballero Orrego	 Gustavo Begazo Gonzales
+Enrique Caballero Orrego	 Las Fresas
+Enrique Caballero Orrego	 Av. Tomas Marsano
+Teniente Coronel Gustavo Escudero Otero	 Av. Tomas Marsano
+Teniente Coronel Gustavo Escudero Otero	 Marco Schenone
+Teniente Coronel Gustavo Escudero Otero	 Capitan Miguel Alegre Rodriguez
+Marco Schenone	 Yenuri Chiguala Cruz
+Teniente Coronel Gustavo Escudero Otero	 Los Capulies
+Yenuri Chiguala Cruz	 Los Capulies
+Yenuri Chiguala Cruz	 Raul Vera Collahuanzo
+Yenuri Chiguala Cruz	 Luis A. Garcia Rojas
+Luis A. Garcia Rojas	 Capitan William Guzman
+Luis A. Garcia Rojas	 Marco Schenone
+Marco Schenone	 Erick Diaz Cabre
+Erick Diaz Cabre	 Av. Tomas Marsano
+My M Jara S	 Av. Tomas Marsano
+Av. Tomas Marsano	 Av. Alfredo Benavides
+My M Jara S	 Av. Alfredo Benavides
+Raul Vera Collahuanzo	 Av. Alfredo Benavides
+Los Capulies	 Av. Alfredo Benavides
+Raul Vera Collahuanzo	 Capitan Augusto Guiterrez Mendoza
+Capitan Augusto Guiterrez Mendoza	 Capitan William Guzman E
+Capitan Augusto Guiterrez Mendoza	 My M Jara S
+Luis A. Garcia Rojas	 My M Jara S
+Teniente Coronel Gustavo Escudero Otero	 Av. Alfredo Venavides
+Cap. Percy Phillipps Cuba	 Av. Alfredo Benavides
+Av. Jose Ramirez Gaston	 Av. Alfredo Benavides
+Av.Jose Ramirez Gaston	 Aparicio Gomez S
+Cap. Percy Phillips Cuba	 Neiser Llasca Arce
+Neiser Llasca Arce	 Cruz Huarcaya
+Cruz Huarcaya	 de Victoriano Castillo
+Cap. Percy Phillips Cuba	 de Victoriano Castillo
+Av. Alfredo Benavides	 Av. la Merced
+Quinones L	 Av. la Merced
+Manuel Augusto Olaechea	 Av. la Merced
+Cahuide	 Av. la Merced
+Cahuide	 Ciro Alegria
+Eduardo H. La Torre Villamonte	 Ciro Alegria
+Manuel Augusto Olaechea	 Ciro Alegria
+Av. Alfredo Benavides	 Ciro Alegria 
+Av. Alfredo Benavides	 Placencia
+Aurelio Fernandez Concha	 Placencia
+Manuel Augusto Olaechea	 Placencia
+Manuel Augusto Olaechea	 Jara y Ureta
+Edurado H. La Torre Villamonte	 Jara y Ureta
+Eduardo H. La Torre Villamonte	 Jiron Bartolome de las Casas
+Cahuide	 Jiron Bartolome de las Casas
+Simon Salguero	 Jiron Bartolome de las Casas
+Simon Salguera	 Jara y Ureta
+Juan Santos	 Jara y Ureta
+Eduardo H. La Torre Villamonte	 Juan Santos
+Eduardo H. La Torre Villamonte	 Gildemeister
+Manuel Augusto Olaechea	 F Gerbolini
+Aurelio Fernandez Concha	 F Gerbolini
+Aurelio Fernandez Concha	 Encinas
+Aurelio Fernandez Concha	 M Freyre
+Miguel Aljovin	 M Freyre
+Manuel Augusto Olaeche	 M Freyre
+Manuel Augusto Olaeche	 Magan
+Jr. Honduras	 Magan
+Jr. Honduras	 Jiron Pedro Irigoyen Diez Canseco
+Nicaragua	 Jiron Pedro Irigoyen Diez Canseco
+Nicaragua	 Miguel Aljovin
+Av. 28 de Julio	 Miguel Aljovin
+Av. 28 de Julio	 Av. Republicana de Panama
+Caraz Malaga	 Av.Republicana de Panama
+Caraz Malaga	 Francisco de Paula Ugarriza
+Caraz Malaga	 Ramon Ribeyro
+Av. Tejada	 Ramon Ribeyro
+Av. Tejada	 Juan de la Fuente
+Av. Tejada	 Francisco del Castillo
+Av. Tejada	 Av. P de la Republica
+Enrique del Horme	 Av. P de la Republica
+Enrique del Horme	 Francisco del Castillo
+Enrique del Horme	 Juan de la Fuente
+Av. 28 de Julio	 Juan de la Fuente
+Av. 28 de Julio	 Francisco del Castillo
+Av. 28 de Julio	 Av. P de la Republica
+Jose Gabriel Chariarse	 Av. P de la Republica
+Av. 15 de Enero	 Av. P de la Republica 
+Av. Alfredo Benavides	 Av. P de la Republica
+Av. Alfredo Benavides	 Casimiro Ulloa
+Ramon Ribeyro	 Casimiro Ulloa
+Av. Alfredo Benavides	 Ramon Ribeyro
+Av.15 de Enero	 Ramon Ribeyro
+Av. 15 de Enero	 Francisco Del Castillo
+Jose Gabriel Chariarse	 Francisco Del Castillo
+Miota	 Francisco Del Castillo
+Miota	 Juan de la Fuente
+Miota	 Ramon Ribeyro
+Gonzales Larrañaga	 Ramon Ribeyro
+Miota	 Ramon Ribeyro
+Miota	 Francisco de Paula Ugarriza
+Miota	 Av. Republica de Panama
+Manuel Augusto Olaechea	 Av. Republica de Panama
+Manuel Augusto Olaechea	 Ignacio la Puente
+Manuel Augusto Olaechea	 Aurelio Fernandez Concha
+Manuel Augusto Olaechea	 Miguel Aliovin
+Jr. Honduras	 Miguel Aliovin
+Pedro Larrañaga	 Miguel Alijovin
+Pedro Larrañaga	 Aurelio Fernandez Concha
+Jorge Buckley	 Ignacio la Puente
+Jorge Buckley	 Av. Republica de Panama
+Jose Gabriel Chariarse	 Francisco de Paula Ugarriza
+Jose Gabriel Chariarse	 Gonzales Larrañaga
+Jose Gabriel Chariarse	 Julian Arias Araguez
+Jose Gabriel Chariarse	 Ramon Ribeyro
+Jose Gabriel Chariarse	 Juan de la Fuente
+Jose E Mora	 Ramon Ribeyro
+Jose E Mora	 Julian Arias Araguez
+Av. 15 de Enero	 Julian Arias Araguez
+Av. 15 de Enero	 Francisco de Paula Ugarriza
+Av. Alfredo Benavides	 Juan de la Fuente
+Av. Alfredo Benavides	 Julian Arias Araguez
+Av. Alfredo Benavides	 Francisco de Paula Ugarriza
+Av. Alfredo Benavides	 Av. Republica de Panama
+Av. Alfredo Benavides	 Ignacio la Puente
+Av. Alfredo Benavides	 Jorge Buckley
+Ramon Ribeyro	 Av. P de la Republica
+Jose Felix Olcay	 Av. P de la Republica
+Jose Felix Olcay	 Rubini
+Av. Ernesto Diez Canseco	 Av. P de la Republica
+Esperanza	 Av. P de la Republica
+Av. Ricardo Palma	 Av. P de la Republica
+Av. Ricardo Palma	 Esperanza
+Ernesto Diez Canseco	 Mariano Odicio
+Bartolome Trujillo	 Mariano Odicio
+Jose Felix Olcay	 Mariano Odicio
+Mariano Odicio	 Juan Alfaro
+Bartolome	 Agua
+Bartolome	 Jose Felix Olcay
+Gral. Silva	 Jose Felix Oclay
+Gral. Silva	 Ernesto Diez Canseco
+Av. Ricrdo Palma	 Gral. Silva
+Vargas Machuca	 P. Alcocer
+Av. Mariscal Caceres	 P Alcocer
+Av. Mariscal Caceres	 Manuel Irribarren
+Av. Mariscal Caceres	 A la Jara
+Av. Mariscal Caceres	 Calle javier Fernandez
+Av. Mariscal Caceres	 Av. Republica de Panama
+Av. Roca y oloña	 Av. Republica de Panama
+Av. Roca y oloña	 Calle Javier Fernandez
+Ortiz de Zevallos	 A la Jara
+Ortiz de Zevallos	 Vargas Machuca
+Manuel Irribarren	 Vargas Machuca
+Av. Ricardo Palma	 Manuel Irribarren
+Av. Ricardo Palma	 Casimiro Ulloa
+Gral. Silva	 Casimiro Ulloa
+Bartolome Trujillo	 Casimiro Ulloa
+Bartolome Trujillo	 Martin Dulanto
+Bartolome Trujillo	 Julian Arias Araguez
+Bartolome Trujillo	 Francisco de Paula Ugarriza
+Gral. Silva	 Francisco de Paula Ugarriza
+Gral. Silva	 Julian Arias Araguez
+Gral. Silva	 Juan de la fuente
+Av. Ricardo Palma	 Juan de la fuente
+Av. Ricardo Palma	 Julian Arias Araguez
+Vargas Machuca	 Enrique del Campo
+Vargas Machuca	 Av. Republica de Panama
+Av. Ricardo Palma	 Av. Republica de Panama
+Gral.Silva	 Av. Republica de Panama
+Augusto Angulo	 Av. Republica de Panama
+Av. Mariscal Ramon Castilla	 Av. Republica de Panama
+Enrique del Campo	 Av. Republica de Panama 
+Enrique del Campo	 Vargas Machuca
+Av. Roca y Boloña	 Vargas Machuca
+Ortiz de Zevallos	 Calle Javier Fernandez-
+Av Roca y Boloña	Av. Republica de Panama
+Av.Roca y Boloña	 Manuel Almenara
+Av.Roca y Boloña	 Lola Pardo Vargas
+Av.Roca y Boloña	 Pedro Venturo
+Av.Roca y Boloña	 Genaro Castro Iglesias
+Av.Roca y Boloña	 Gral. Ernesto Montagne
+Av. Mariscal Ramon Castilla	 Gral. Ernesto Montagne
+Anselmo Barreto	 Gral. Ernesto Montagne
+Av. Manuel Villaran	 Gral. Ernesto Montagne
+Augusto Angulo	 Gral. Ernesto Montagne
+Aparicio Gomez Sanchez	 Gral. Ernesto Montagne
+Av. Alfredo Benavides	 Genaro Castro Iglesias
+Av. Alfredo Benavides	 Jorge Buckley
+Av. Alfredo Benavides	 Ignacio la Puente
+Av. Alfredo Benavides	 Av. Republica de Panama
+Augusto Angulo	 Av. Republica de Panama
+Gral. Silva Av. Republica de Panama	 Av. Republica de Panama
+Av. Ricardo Palma	 Av. Republica de Panama
+Vargas Machuca	 Av. Republica de Panama
+Av. Mariscal Ramon Castilla	 Av. Republica de Panama
+Enrique del Campo	 Av. Republica de Panama
+Av. Mariscal Ramon Castilla	 Manuel Almenara
+Av. Mariscal Ramon Castilla	 Lola Prado Vargas
+Av. Mariscal Ramon Castilla	 Pedro Venturo
+Av. Mariscal Ramon Castilla	 Pedro Venturo
+Av.  Mariscal Ramon Castilla	 Pedro Venturo
+Av. Mariscal Ramon Castilla	 Lola Pedro
+Av. Mariscal Ramon Castilla	 Manuel Almenara
+Av. Ricardo Palma	 Manuel Almenara
+Av. Ricardo Palma	 Lola Pardo
+Av. Ricardo Palma	 Pedro Venturo
+Av. Ricardo Palma	 Genaro Castro Iglesias
+Av. Mariscal Ramon Castilla	 Genaro Castro Iglesias.
+Villegas	 Genaro Castro Iglesias
+Augusto Angulo	 Genaro Castro Iglesias
+Costa Rica	 Genaro Castro Iglesias
+Guatemala	 Genaro Castro Iglesias.
+Av. Manuel Arce de la Oliva	 Manuel Almenara
+Av. Manuel Arce de la Oliva	 Santiago Acuña
+Av. Manuel Arce de la Oliva	 Lola Pardo Vargas
+Av. Manuel Arce de la Oliva	 Comandante Jose Roman
+Av. Manuel Arce de la Oliva	 Pedro Venturo
+Av. Manuel Arce de la Oliva	 Genaro Castro Iglesias
+Sta.Carmen	 Sor Tita
+Sta.Carmen	 Sor Mate
+Sta.Carmen	 C.4
+Cap E Gutierrez Rondon	 C.5
+Cap E Gutierrez Rondon	 Punta Sal
+P. Rosales	 Alcala
+P. Rosales	 Jiron El Escorial
+Alcal	 Jiron Escorial
+Puntal Sal	 Jiron El Escorial
+Punta Coles	 Punta Sal
+Punta Coles	 C.5
+Punta Coles	 C.4
+Jiron El Escorial	 Jion Tantamayo
+Simon Salguero	 Jiron Tantamayo
+Simon Salguero	 Puerto Inca
+Simon Salgueor	 Punta Sal
+Jr. Huaroc	 Salaverry
+Jr Huaroc	 Punta Sal
+Jr Huaroc	 P la Castellana
+Jiron los Manglares	 Punta Sal
+Jiron los Manglares	 Puerto Inca
+Jiron los Manglares	 Pajaten
+Jr Juaroc	 Pajaten
+Simon Salguero	 Pajaten
+San Andres	 Sor Mate
+San Andres	 su amor de su vida
+Simon Salguero	 Sor ita
+Simon Salguero	 Sor Mate
+Colan	 Sor Tita
+Colan	 Sor Mate
+Jr Kenko	 Sor Tita
+Jr Kenko	 Sor Mate
+Jr Kenko	 Pajaten
+Jr keko	 Lauricocha
+Puerto Pizarro	 Lauricocha
+Puerto Pizarro	 Sayhuite
+Puerto Pizarro	 Sta Dora
+Puerto Pizarro	 Av. la merced 
+Jr. Carlos Baca Flor	 Av. la merced
+Jr. Carlos Baca Flor	 Sta. Dore
+Jr. Carlos Baca Flor	 Sayhuite
+Jr. Carlos Baca Flor	 Lauricocha
+Gullermo More	 Punta Sal
+Av.Mariscal Ramon Castilla	 Sta.Catallina
+Av.Mariscal Ramon Castilla	 Jiron Puerto Eten
+Av. Mariscal Ramon Casilla	 P. la Castellana
+Guillermo More	 P. la Castellana
+Toledo	 P. la Castellana
+Toledo	 Punta Sal
+Jr.Kenko	 Punta Lobos
+Jr Kenko	 Jiron Puerto Eten
+Jr kenko	 Puerto Inca
+Jr. Honduras	 Miguel Aljovin
+Av.28 de Julio	 Miguel Aljovin
+Miguel Alijovin	 Jiron Pedro Irigoyen Diez Canseco
+Miguel Alijovin	 Jiron Pedro Irigoyen Diez Canseco
+Nicaragua	 Jiron Pedro Irigoyen Diez Canseco
+Jr. Honduas	 Jion Pedro Irigoyen Diez Canseco
+Jr. Honduras	 Jr. lrma Gamero de Planas
+Lecca	 Julia Codesido
+Lecca	 Jr. Henry Revett
+Jr. Honduras	 Jr Henry Revett
+Miguel Alijovin	 Jr. Irma Gamero de Planas
+Miuel Alijovin	 Jr. Irma Gamero de Planas
+Av.Mariscal Ramon Castilla	 Jr Irma Gamero de Planas
+Av.Mariscal Ramon Castilla	 Daniel Hernandez.
+Lecca	 Daniel Hernandez
+Jr. Fray Francisco de Bejarano	 Daniel Hernandez
+Jr. Henry Revett	 Jr.Fray Francisco de Bejarano
+Jara y Ureta	 Jr. Fray Francisco de Bejarnano
+Jara y Ureta	 C.12
+Jr. José Sebogal	 Jr C.12
+Av.Mariscal Ramon Castilla	 Jara y Ureta.
+Av. Mariscal Random Castilla	 Jr. Jose Sabogal
+Jr. Carlos Baca Flor	 Jiron Bertolome de las Casas
+Jiron Bertolome de las Casas	 Av.Mariscal Ramón 
+Jr Carlos Baca Flor	 Jiron bartomode de las casas
+Jr Carlos Baca Flor	 Merida
+Jr.Carlos Baca Flor	 Jr. San Tadeo
+Jr. Kenko	 Av.la Merced
+Jr. Jose Sabogal	 Jr. San Tadeo
+Simon Salguero	 Jr. San Tadeo
+Simon Salguero	 Ciro Alegria
+Simon Salguero	 Jiron Bartolome de las casas
+Jr. Jose Sabogal	 Jiron Bartolome de las casas
+Jr. Jose Sabogal	 Guadalajara
+Jr. Jose Sabogal	 Jr. Carlos Baca Flor
+Jr. Jose Sabogal	 Merida
+Av.Angamos	 Pablo Neruda 
+Av.Angamos	 Avenida Principal
+Av.Angamos	 Albert Einstein
+Av.Angamos	Genaro Cobian
+Av.Angamos	 Juan Fuentes
+Av.Angamos	 Pascal
+Garcia Robles	 Avenida Principal
+Garcia Robles	 Albert Einstein
+Manuel Bonilla	Avenida Principal
+Manuel Bonilla	Calle Albert Einstein
+Gabriela Mistral	 Avenida Principal
+Gabriela Mistral	Calle Albert Einstein
+Roentgen	 Avenida Principal
+Roenten	 Octavio Paz
+Juan Fuentes	 Octavio Paz
+Juan Fuentes	 Albert Einstein
+Daniel Cruz	 Octavio Paz
+Daniel Cruz	 Fermi
+Juan Fuentes	 Bernando Houssay
+Juan Fuentes	 Gabriela Mistral
+Daniel Cruz	 Gabriela Mistral
+Jose Neyra	 Manuel Bonilla
+Juan Fuentes	 Manuel bonilla
+Jose Neyra	 Juan Fuentes
+Jose Neyra	 Daniel Cruz
+Daniel Cruz	 Montesquieu
+Manuel Alva	 Montesquieu
+Jose Neyra	 Pascal
+Jose Neyra	 Descartes
+Jose Neyra	 Confucio
+Jose Neyra	 Harrington
+Manuel Alva	 Pascal
+Av. Williams	 Pascal
+Av.Williams	 Descartes
+Av.williams	 confucio
+Av.williams	 harrington
+Diderot	Pascal
+Diderot	Av. Hillman
+Diderot	Descartes
+Diderot	confucio
+Federico Engels	 Pascal
+Hegel	 Av.Hillman
+Hegel	Harrington
+Spencer	Av.Hillman
+Spencer	 Russell
+Spencer	 Harrington
+Alfa Centauro	 alfa lira
+Alfa centauro	 alfa virgen
+Alfa orion	 alfa lira
+Alfa orion	 alfa virgen
+fisher	 montesquieu
+fisher	 ortega y gasset
+federico	 ortega y gasset
+adam smith	 ortega y gasset
+alfa centauro	 alfa boyero
+alfa orion	 alfa boyero
+adam smith	 robinson
+franklin	 marco polo
+franklin	 murray
+ameghino	 ortega y gasset
+alfa gemelos	 el cerezo
+Av.Manuel Villaran	Retama
+Rosal	Magnolia
+Retama	Amapola
+Retama	Laurel Rosa
+Laurel Rosa	Palo Blanco
+Laurel Rosa	 Magnolia
+Laurel Rosa	Palo Rosa
+Palo Blanco	 Pino Silvestre
+Pino Silvestre	 Madrid
+Palo Blanco	 Av.El Sauce
+Av.El Sauce	 Palo Rosa
+Av.El Sauce	Laurel Rosa
+Laurel Rosa	Begonia
+Laurel Rosa	Bambu
+Laurel Rosa	C.el Cedro
+Begonia	 Caoba
+Begonia	Bambu
+Begonia	Begonia
+C.Gerona	Alicante
+C.Gerona	 C.Vizcaya
+C.Gerona	C.tarragona
+Alicante	Murcia
+Murcia	C.Vizcaya
+Murcia	Logroño
+Logroño	 Almeria
+Almeria	C.Vizcaya
+Almeria	C.Tarragona
+Almeria	Cuenca
+Cuenca	aviación
+Aviación	 Madrid
+Madrid	Bilbao
+Bilbao	 Santander
+Santander	 C.Gerona
+Santander	 Av. Aviación
+Av. Aviación	 C.Valencia
+Alicante	 Av. Aviación
+Av.Aviacion	 C.Antana
+Av.Aviacion	 C.Teodoro Valcarcel
+C.Antana	Jr. Barlovento
+C.Teodoro Valcarcel	 Jr. Preciados
+Jr.Preciados	Ca.Manuel Scorza Torres
+Ca.Manuel Scorza Torres	 Jiron Barlovento
+Ca.Manuel Scorza Torres	Jr. Galeano
+Jiron Barlovento	 C. María Isabel Granda Larco
+Jiron Barlovento	 C.Luis Galvani
+C.Luis Galvani	 Jr. Galeano
+Jr. Galeano	C. María Isabel Granda Larco
+C.Luis Galvani	Jr.La Venturosa
+Juan Torres Higueras	 Moser
+Samiria	Avenida Principal
+Samiria	 Yarinacocha
+Los Angeles	Yarinacocha
+Los Angeles	 Av.Tomas Marsano
+Semiria	 Av.Tomas Marsano
+Semiria	 Heraud
+Andrés Luna	 Heraud
+Andrés Luna	 C.B
+Alameda Luis Miroquesada	C.B.
+Alameda Luis Miroquesada	 Velarde
+Juan Torres Higueras	 Av Tomas Marsano
+Las orquideas	 Av Tomas Marsano
+Arturo duray	 Bielovucic
+Domodossola	 bleriot
+Domodossola	 dertnell
+Domodossola	 bielovucic
+Alpes	Avenida Principal
+Alpes	 Dartnell
+Alpes	 Av.Tomas Marsano
+Alfa Centauro	Avenida Principal
+Alfa leon	Avenida Principal
+Alfa gemelos	 alfa cisne
+Alfa gemelos	 alfa águila
+Alfa orion	 alfa aguila
+Alfa centauro	 alfa aguila
+Adam smith	 alfa cisne
+Ameghino	 alfa cisne
+Alfa escorpion	alfa tauro
+Alfa y omega	 alfa cisne
+Alfa y omega	 alfa aguila
+Alfa y omega	 el cerezo
+Ameghino	 el cerezo
+Emiliano Zapata	carlyle
+Varsovia	carlyle
+Varsovia	uva
+varsovia	pacae
+varovia	 luxemburgo
+paderewski	 marco polo
+Emiliano Zapata	 murray
+garrison	marco polo
+Varsovia	 atenas
+Emiliano Zapata	La morena
+Garrison	calvino
+green	 russell
+av. hilman	 russell
+bruselas	 el cerezo
+bruselas	 berna
+bruselas	 la morera
+viena	 la morera
+varsovia	 la morera
